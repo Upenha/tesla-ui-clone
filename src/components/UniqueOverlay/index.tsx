@@ -19,13 +19,13 @@ const UniqueOverlay: React.FC = () => {
       <Footer style={{ opacity }}>
         <ul>
           <li>
-            <a href="#">UI Clone</a>
+            <a href="#feijao">UI Clone</a>
           </li>
           <li>
-            <a href="#">Rocketseat</a>
+            <a href="#arroz">Rocketseat</a>
           </li>
           <li>
-            <a href="#">Upenha</a>
+            <a href="#batata">Upenha</a>
           </li>
         </ul>
 
